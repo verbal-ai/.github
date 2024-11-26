@@ -4,8 +4,12 @@ _We're building an open-source voice assistant atop Raspberry Pi! Our goal is to
 ***
 
 It all started with a post from Michael Seibel. He said that it's been Christmas time and there is no speaker that is hooked to LLM, so I decided to build one.
+
+
 ![image](https://github.com/user-attachments/assets/740f8145-9ed1-4e38-8733-33ac94ea629c)
 
+
+## Current Stage
 
 ![IMG20241126193151](https://github.com/user-attachments/assets/fc6e096a-714c-425e-8f82-9840fde3fdbd)
 
