@@ -1,6 +1,6 @@
 # Welcome to Verbal AI
 
-_We're building an open-source voice assistant atop Raspberry Pi! Our goal is to enhance customization & ensure privacy, enabling users to personalize their interactions._
+An open-source voice assistant atop Raspberry Pi!
 ***
 
 It all started with a post from Michael Seibel. He said that it's been Christmas time and there is no speaker that is hooked to LLM, so I decided to build one.
