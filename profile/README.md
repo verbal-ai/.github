@@ -12,6 +12,11 @@ It all started with a post from Michael Seibel. He said that it's been Christmas
 ## Current Stage
 Version 2
 
+![WhatsApp Image 2024-12-27 at 00 04 59 (1)](https://github.com/user-attachments/assets/4ebd9806-574c-4959-a28b-c656858dcf62)
+![WhatsApp Image 2024-12-27 at 00 04 59](https://github.com/user-attachments/assets/f0bbbe95-3234-46f5-b8c8-12203bbb2d32)
+![WhatsApp Image 2024-12-27 at 00 04 58](https://github.com/user-attachments/assets/06a5bb0f-0398-4aa8-95ee-3264accc4744)
+
+
 [Demo](https://www.youtube.com/shorts/KVj3zGVoclc)
 
 
